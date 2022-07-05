@@ -19,8 +19,6 @@ public class GenerateUniCodes {
           Random rand = new Random();
 
           ArrayList<Integer> list = new ArrayList<Integer>();
-          // list.add(0, 0);
-          System.out.println(list.size());
 
           int randNum = 0;
           for (int i = 0; i < 5; i++) { // YOU CAN SAY THAT IT HAPPENS FOR 5 OBJECTS FOR EXAMPLE...
